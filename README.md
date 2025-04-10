@@ -136,6 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [Twitter](https://twitter.com/salatech2)
+Salatech - [Twitter](https://twitter.com/salatech2)
 
-Project Link: [https://github.com/yourusername/ip-address-tracker-react](https://github.com/salatech/ip-address-tracker-react)
+Project Link: [https://github.com/salatech/ip-address-tracker-react](https://github.com/salatech/ip-address-tracker-react)
