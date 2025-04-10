@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.loading, .error {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+}
+
+/* Import Bootstrap CSS */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+/* Import Font Awesome */
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap'); 
