@@ -18,8 +18,9 @@ L.Marker.prototype.options.icon = DefaultIcon;
 // Custom icon for location marker
 const locationIcon = L.icon({
   iconUrl: '/assets/images/icon-location.svg',
-  iconSize: [46, 56],
-  iconAnchor: [23, 56]
+  iconSize: [30, 36],
+  iconAnchor: [15, 36],
+  popupAnchor: [0, -36]
 });
 
 // Component to update map view when coordinates change
